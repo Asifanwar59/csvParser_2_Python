@@ -1,5 +1,5 @@
 # csvParser_2_Python
-Process teh supplied csv file and use the python's csv module to extract data from it.
+Process the supplied csv file and use the python's csv module to extract data from it.
 
 # Introduction:
 The task is to process the supplied file and use the csv module to extract data from it.
